@@ -104,5 +104,16 @@
       "order": 13,
       "hour":"10:45 pm"
     }
+  ],
+  "Projects": [
+    {
+      "id": 1,
+      "farmerId": 1,
+      "specialistId": 2,
+      "isProjectStarted":true,
+      "cropId":1,
+      "description":"Este projecto es para tu cultivo de lechugas",
+      "weeks": 8
+    }
   ]
 }
