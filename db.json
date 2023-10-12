@@ -115,7 +115,8 @@
       "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
       "weeks": 8,
-      "activities": 10,
+      "totalActivities": 10,
+      "activitiesDone": 1,
       "progress":1
     },
     {
@@ -127,7 +128,8 @@
       "name": "Tomato Project",
       "description":"Este projecto es para tu cultivo de tomates",
       "weeks": 10,
-      "activities": 15,
+      "totalActivities": 15,
+      "activitiesDone": 0,
       "progress":0
     },
     {
@@ -139,7 +141,8 @@
       "name": "Carrot Project",
       "description":"Este projecto es para tu cultivo de zanahorias",
       "weeks": 11,
-      "activities": 20,
+      "totalActivities": 20,
+      "activitiesDone": 0,
       "progress":0
     }
   ]
