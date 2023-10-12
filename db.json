@@ -83,6 +83,13 @@
       "AutorId": 2,
       "message": "Ahorita cuento con 6 dias a la semana, los domingos descanso",
       "order": 12
-    }
+    },
+    {
+      "id": 13,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Podrian ser los lunes, miercoles y viernes? Esos dias voy a la mi chacra y se me haria mejor contar con tu disponibilidad para que me respondas alguna duda que puedo tener en ese momento",
+      "order": 13
+    },
   ]
 }
