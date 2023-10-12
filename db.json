@@ -4,7 +4,7 @@
       "id": 1,
       "contactId": 1,
       "AutorId": 1,
-      "message": "Hola alonso, me gustaría obtener un asesoramiento",
+      "message": "Hola , me gustaría obtener un asesoramiento",
       "order": 1
     },
     {
@@ -25,8 +25,36 @@
       "id": 4,
       "contactId": 1,
       "AutorId": 2,
-      "message": "Okey, ¿de cuántos metros estamos hablando?",
+      "message": "Okey ¿de cuántos metros estamos hablando?",
       "order": 4
+    },
+    {
+      "id": 5,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Serian 6 metros de largo",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "bien, tienes conocimiento de la tierra en la que estas cultivando",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "No en realidad",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Bueno, hay algunos tipos de tierra que son mejores para cultivar",
+      "order": 8
     }
   ]
 }
