@@ -115,6 +115,26 @@
       "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
       "weeks": 8
+    },
+    {
+      "id": 2,
+      "farmerId": 1,
+      "specialistId": 3,
+      "isProjectStarted":false,
+      "cropId":2,
+      "name": "Tomato Project",
+      "description":"Este projecto es para tu cultivo de tomates",
+      "weeks": 10
+    },
+    {
+      "id": 3,
+      "farmerId": 1,
+      "specialistId": 4,
+      "isProjectStarted":false,
+      "cropId":3,
+      "name": "Carrot Project",
+      "description":"Este projecto es para tu cultivo de zanahorias",
+      "weeks": 11
     }
   ]
 }
