@@ -55,6 +55,34 @@
       "AutorId": 2,
       "message": "Bueno, hay algunos tipos de tierra que son mejores para cultivar",
       "order": 8
+    },
+    {
+      "id": 9,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Entiendo, voy a averiguar que tierra es!",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Perfecto, con eso estaria bien para empezar el proyecto",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "contactId": 1,
+      "AutorId": 1,
+      "message": "Que dias tienes disponibles?",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "contactId": 1,
+      "AutorId": 2,
+      "message": "Ahorita cuento con 6 dias a la semana, los domingos descanso",
+      "order": 12
     }
   ]
 }
