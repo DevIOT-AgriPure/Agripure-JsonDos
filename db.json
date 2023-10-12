@@ -112,6 +112,7 @@
       "specialistId": 2,
       "isProjectStarted":true,
       "cropId":1,
+      "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
       "weeks": 8
     }
