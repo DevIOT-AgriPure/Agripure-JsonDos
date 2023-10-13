@@ -145,5 +145,87 @@
       "activitiesDone": 0,
       "progress":0
     }
+  ],
+  "Activities": [
+    {
+        "id": 1,
+        "projectId": 1,
+        "title": "Sembrar semillas",
+        "description": "Preparar el suelo y plantar las semillas de lechuga en macetas o en el jardín.",
+        "date": "2023-10-15",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "projectId": 1,
+        "title": "Riego inicial",
+        "description": "Después de sembrar, asegurarse de proporcionar suficiente agua para humedecer el suelo.",
+        "date": "2023-10-17",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "projectId": 1,
+        "title": "Fertilización",
+        "description": "Aplicar un fertilizante equilibrado para promover el crecimiento de las plántulas de lechuga.",
+        "date": "2023-10-20",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "projectId": 1,
+        "title": "Trasplante",
+        "description": "Trasplantar las plántulas de lechuga al jardín o a macetas más grandes cuando tengan suficiente tamaño.",
+        "date": "2023-11-05",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "projectId": 1,
+        "title": "Riego regular",
+        "description": "Mantener un programa de riego regular para mantener el suelo húmedo pero no empapado.",
+        "date": "2023-11-10",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "projectId": 1,
+        "title": "Control de plagas",
+        "description": "Inspeccionar las plantas de lechuga en busca de plagas y aplicar medidas de control si es necesario.",
+        "date": "2023-11-20",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "projectId": 1,
+        "title": "Podar hojas dañadas",
+        "description": "Recortar hojas dañadas o en mal estado para fomentar el crecimiento saludable de la lechuga.",
+        "date": "2023-11-25",
+        "completed": false
+    },
+    {
+        "id": 8,
+        "projectId": 1,
+        "title": "Fertilización adicional",
+        "description": "Aplicar un fertilizante con alto contenido de nitrógeno para promover el crecimiento de las hojas de lechuga.",
+        "date": "2023-12-01",
+        "completed": false
+    },
+    {
+        "id": 9,
+        "projectId": 1,
+        "title": "Cosecha de lechugas",
+        "description": "Cuando las lechugas estén maduras, cosecharlas cuidadosamente para su consumo.",
+        "date": "2023-12-15",
+        "completed": false
+    },
+    {
+        "id": 10,
+        "projectId": 1,
+        "title": "Limpieza y preparación del suelo",
+        "description": "Después de la cosecha, limpiar y preparar el suelo para futuros cultivos de lechugas u otras plantas.",
+        "date": "2023-12-20",
+        "completed": false
+    }
   ]
 }
