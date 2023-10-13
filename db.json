@@ -109,7 +109,7 @@
     {
       "id": 1,
       "farmerId": 1,
-      "specialistId": 2,
+      "specialistId": 1,
       "isProjectStarted":true,
       "cropId":1,
       "name": "Lettuce Project",
