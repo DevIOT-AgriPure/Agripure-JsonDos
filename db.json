@@ -152,8 +152,8 @@
         "projectId": 1,
         "title": "Sembrar semillas",
         "description": "Preparar el suelo y plantar las semillas de lechuga en macetas o en el jardín.",
-        "date": "2023-10-15",
-        "completed": false
+        "date": "2023-10-12",
+        "completed": true
     },
     {
         "id": 2,
