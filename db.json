@@ -227,5 +227,75 @@
         "date": "2023-12-20",
         "completed": false
     }
+  ],
+  "Projects": [
+    {
+      "id": 1,
+      "farmerId": 1,
+      "specialistId": 1,
+      "isProjectStarted":true,
+      "cropId":1,
+      "name": "Lettuce Project",
+      "description":"Este projecto es para tu cultivo de lechugas",
+      "weeks": 8,
+      "totalActivities": 10,
+      "activitiesDone": 1,
+      "progress":1
+    },
+    {
+      "id": 2,
+      "farmerId": 1,
+      "specialistId": 3,
+      "isProjectStarted":false,
+      "cropId":2,
+      "name": "Tomato Project",
+      "description":"Este projecto es para tu cultivo de tomates",
+      "weeks": 10,
+      "totalActivities": 15,
+      "activitiesDone": 0,
+      "progress":0
+    },
+    {
+      "id": 3,
+      "farmerId": 1,
+      "specialistId": 4,
+      "isProjectStarted":false,
+      "cropId":3,
+      "name": "Carrot Project",
+      "description":"Este projecto es para tu cultivo de zanahorias",
+      "weeks": 11,
+      "totalActivities": 20,
+      "activitiesDone": 0,
+      "progress":0
+    }
+  ],
+  "Devices": [
+    {
+        "id": 1,
+        "name": "Lettuce humedity sensor",
+        "model": "Yl-69",
+        "category": "Humidity sensor",
+        "cropId": 1,
+        "farmerId":1,
+        "active": true,
+    },
+    {
+        "id": 1,
+        "name": "Lettuce temperature sensor",
+        "model": "Ds1820",
+        "category": "Temperature sensor",
+        "cropId": 1,
+        "farmerId":1,
+        "active": true,
+    },
+    {
+        "id": 1,
+        "name": "Lettuce light sensor",
+        "model": "LDR",
+        "category": "Light sensor",
+        "cropId": 1,
+        "farmerId":1,
+        "active": true,
+    }
   ]
 }
