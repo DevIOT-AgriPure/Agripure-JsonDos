@@ -275,7 +275,7 @@
         "name": "Lettuce humedity sensor",
         "model": "Yl-69",
         "category": "Humidity sensor",
-        "cropId": 1,
+        "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
         "active": true
@@ -285,7 +285,7 @@
         "name": "Lettuce temperature sensor",
         "model": "Ds1820",
         "category": "Temperature sensor",
-        "cropId": 1,
+        "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
         "active": true
@@ -295,7 +295,7 @@
         "name": "Lettuce light sensor",
         "model": "LDR",
         "category": "Light sensor",
-        "cropId": 1,
+        "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
         "active": true
