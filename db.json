@@ -281,7 +281,7 @@
         "active": true
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Lettuce temperature sensor",
         "model": "Ds1820",
         "category": "Temperature sensor",
@@ -291,7 +291,7 @@
         "active": true
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Lettuce light sensor",
         "model": "LDR",
         "category": "Light sensor",
