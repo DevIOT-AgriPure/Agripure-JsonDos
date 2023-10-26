@@ -114,7 +114,7 @@
       "cropId":1,
       "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
-      "weeks": 8,
+      "durationDays": 20,
       "totalActivities": 10,
       "activitiesDone": 1,
       "progress":1
@@ -127,7 +127,7 @@
       "cropId":2,
       "name": "Tomato Project",
       "description":"Este projecto es para tu cultivo de tomates",
-      "weeks": 10,
+      "durationDays": 30,
       "totalActivities": 15,
       "activitiesDone": 0,
       "progress":0
@@ -140,7 +140,7 @@
       "cropId":3,
       "name": "Carrot Project",
       "description":"Este projecto es para tu cultivo de zanahorias",
-      "weeks": 11,
+      "durationDays": 36,
       "totalActivities": 20,
       "activitiesDone": 0,
       "progress":0
