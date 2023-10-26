@@ -105,47 +105,6 @@
       "hour":"10:45 pm"
     }
   ],
-  "Projects": [
-    {
-      "id": 1,
-      "farmerId": 1,
-      "specialistId": 1,
-      "isProjectStarted":true,
-      "cropId":1,
-      "name": "Lettuce Project",
-      "description":"Este projecto es para tu cultivo de lechugas",
-      "durationDays": 20,
-      "totalActivities": 10,
-      "activitiesDone": 1,
-      "progress":1
-    },
-    {
-      "id": 2,
-      "farmerId": 1,
-      "specialistId": 3,
-      "isProjectStarted":false,
-      "cropId":2,
-      "name": "Tomato Project",
-      "description":"Este projecto es para tu cultivo de tomates",
-      "durationDays": 30,
-      "totalActivities": 15,
-      "activitiesDone": 0,
-      "progress":0
-    },
-    {
-      "id": 3,
-      "farmerId": 1,
-      "specialistId": 4,
-      "isProjectStarted":false,
-      "cropId":3,
-      "name": "Carrot Project",
-      "description":"Este projecto es para tu cultivo de zanahorias",
-      "durationDays": 36,
-      "totalActivities": 20,
-      "activitiesDone": 0,
-      "progress":0
-    }
-  ],
   "Activities": [
     {
         "id": 1,
@@ -237,7 +196,7 @@
       "cropId":1,
       "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
-      "weeks": 8,
+      "durationDays": 20,
       "totalActivities": 10,
       "activitiesDone": 1,
       "progress":1
@@ -250,7 +209,7 @@
       "cropId":2,
       "name": "Tomato Project",
       "description":"Este projecto es para tu cultivo de tomates",
-      "weeks": 10,
+      "durationDays": 30,
       "totalActivities": 15,
       "activitiesDone": 0,
       "progress":0
@@ -263,7 +222,7 @@
       "cropId":3,
       "name": "Carrot Project",
       "description":"Este projecto es para tu cultivo de zanahorias",
-      "weeks": 11,
+      "durationDays": 35,
       "totalActivities": 20,
       "activitiesDone": 0,
       "progress":0
