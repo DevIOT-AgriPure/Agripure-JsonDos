@@ -196,10 +196,8 @@
       "cropId":1,
       "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
-      "durationDays": 64,
-      "totalActivities": 10,
-      "activitiesDone": 1,
-      "progress":1
+      "startDate":"20/10/2023",
+      "endDate":"24/12/2023",
     },
     {
       "id": 2,
@@ -209,10 +207,8 @@
       "cropId":2,
       "name": "Tomato Project",
       "description":"Este projecto es para tu cultivo de tomates",
-      "durationDays": 70,
-      "totalActivities": 15,
-      "activitiesDone": 0,
-      "progress":0
+      "startDate":"26/10/2023",
+      "endDate":"28/12/2023",
     },
     {
       "id": 3,
@@ -222,10 +218,8 @@
       "cropId":3,
       "name": "Carrot Project",
       "description":"Este projecto es para tu cultivo de zanahorias",
-      "durationDays": 75,
-      "totalActivities": 20,
-      "activitiesDone": 0,
-      "progress":0
+      "startDate":"20/10/2023",
+      "endDate":"24/12/2023",
     }
   ],
   "Devices": [
