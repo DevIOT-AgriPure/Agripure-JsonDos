@@ -197,7 +197,7 @@
       "name": "Lettuce Project",
       "description":"Este projecto es para tu cultivo de lechugas",
       "startDate":"20/10/2023",
-      "endDate":"24/12/2023",
+      "endDate":"24/12/2023"
     },
     {
       "id": 2,
@@ -208,7 +208,7 @@
       "name": "Tomato Project",
       "description":"Este projecto es para tu cultivo de tomates",
       "startDate":"26/10/2023",
-      "endDate":"28/12/2023",
+      "endDate":"28/12/2023"
     },
     {
       "id": 3,
@@ -219,7 +219,7 @@
       "name": "Carrot Project",
       "description":"Este projecto es para tu cultivo de zanahorias",
       "startDate":"20/10/2023",
-      "endDate":"24/12/2023",
+      "endDate":"24/12/2023"
     }
   ],
   "Devices": [
