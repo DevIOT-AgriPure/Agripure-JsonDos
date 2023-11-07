@@ -231,7 +231,7 @@
         "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
-        "active": true
+        "active": true 
     },
     {
         "id": 2,
@@ -241,7 +241,10 @@
         "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
-        "active": true
+        "active": true,
+        "activeNotification": true,
+        "activeRealTimeData": true,
+        "planTemperature":0
     },
     {
         "id": 3,
@@ -251,7 +254,10 @@
         "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
-        "active": true
+        "active": true,
+        "activeNotification": true,
+        "activeRealTimeData": true,
+        "planTemperature":0
     }
   ]
 }
