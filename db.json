@@ -74,5 +74,12 @@
         "planTemperature": 14,
         "planHumidity": 20
     }
+  ],
+  "DevicesValue": [
+    {
+        "id": 1,
+        "planTemperature": 14,
+        "planHumidity": 20
+    }
   ]
 }
