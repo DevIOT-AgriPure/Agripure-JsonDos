@@ -226,38 +226,16 @@
     {
         "id": 1,
         "name": "Lettuce humedity sensor",
-        "model": "Yl-69",
+        "model": "DHT22",
         "category": "Humidity sensor",
         "cropName": "Lettuce",
         "farmerId":1,
         "projectId":1,
-        "active": true 
-    },
-    {
-        "id": 2,
-        "name": "Lettuce temperature sensor",
-        "model": "Ds1820",
-        "category": "Temperature sensor",
-        "cropName": "Lettuce",
-        "farmerId":1,
-        "projectId":1,
         "active": true,
-        "activeNotification": true,
-        "activeRealTimeData": true,
-        "planTemperature":0
-    },
-    {
-        "id": 3,
-        "name": "Lettuce light sensor",
-        "model": "LDR",
-        "category": "Light sensor",
-        "cropName": "Lettuce",
-        "farmerId":1,
-        "projectId":1,
-        "active": true,
-        "activeNotification": true,
-        "activeRealTimeData": true,
-        "planTemperature":0
+        "activeNotification":true,
+        "activeRealTimeData":true,
+        "planTemperature": 14,
+        "planHumidity": 20
     }
   ]
 }
